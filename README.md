@@ -57,6 +57,14 @@ REJECTED
 
 
 
+## Posted Questions on LeetCode:
+
+[Google Interview 1](https://leetcode.com/discuss/interview-question/2255835/google-interview-question)
+
+[Google Interview 2](https://leetcode.com/discuss/interview-question/2233033/google-interview-question)
+
+
+
 ## From Developer
 
 You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-Pranam%20Bhat-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
