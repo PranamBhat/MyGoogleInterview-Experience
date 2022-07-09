@@ -87,8 +87,9 @@ I have been preparing since 4 years when I first interviewed at Google 06-07-202
 7. [LeetCode](https://leetcode.com/)
 8. [Stack Overflow](https://stackoverflow.com/)
 9. [Life at Google](https://www.youtube.com/playlist?list=PLllx_3tLoo4c_aR8RKOOnizL5LiUH02YF)
-. 
-. 
+
+&nbsp;
+
 Practice, Practice, Practice!!!
 
 &nbsp;
@@ -97,6 +98,9 @@ Practice, Practice, Practice!!!
 
 &nbsp;
 
+1. Read enough coding Books - [Best Books](https://dev.to/pranambhat/best-books-for-algorithms-and-data-structures-in-programming-13m1)
+2. Understand and practice enough Algorithms - [List Of Algorithms](https://dev.to/pranambhat/list-of-algorithms-in-computer-programming-4loa)
+3. Solve enough problems on LeetCode - [LeetCode Problems](https://leetcode.com/problemset/all/)
 
 15 Minutes Before the interview:
 
