@@ -6,6 +6,20 @@ I have attended Google Interview 2 times till date. Both the times I got REJECTE
 
 &nbsp;
 
+In my opinion, Google Interview is all about luck! Well, I will tell you the reason!
+
+In other companies, interview is like - they will ask one question and you fail to answer that question at first attempt! You go back and study that question and clear your next interview when the same question is asked! In general, if you consider normal programming question, you may get OOPS Concepts, String Reverse, etc. This you can study/prepare and clear your interview after 1st or 2nd attempts. 
+
+&nbsp;
+
+When it comes to Google . . 
+
+You read books, write code regularly, watch videos, practice in GitHub/LeetCode, and so on. You prepare for a Google Interview years and more! The coding question you will get during the interview is nowhere related to the study you have done so far! It is purely a RANDOM question! and moreover it is upto the interviewer at that point! It might be a Tree or Linked List or Matrix. No one can imagine what sort of problem.
+
+&nbsp;
+
+
+
 Interview Experience 1:
 
 
@@ -56,6 +70,30 @@ Interview Experience 2:
 
 
 REJECTED
+
+&nbsp;
+
+## How I Prepared?
+I have been preparing since 4 years when I first interviewed at Google 06-07-2021. I referred resource's like GitHub, HackerRank, LeetCode, Stack Overflow, YouTube, etc. Also, I had extensively invloved in reading and writing articles/blogs across C# Corner, Dev Community, Medium. I followed and connected with a lot of folks over GitHub and LinkedIn. 
+
+## What Are The Materials I have Referred?
+
+1. [Cracking the Coding Interview](https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850)
+2. [Introduction to Algorithms](https://www.amazon.in/Introduction-Algorithms-3Ed-International-Press/dp/0262533057)
+3. [GeeksforGeeks](https://www.geeksforgeeks.org/hard/)
+4. [GitHub](https://github.com/)
+5. [GitHub Repository](https://github.com/mgechev/google-interview-preparation-problems)
+6. [HackerRank](https://www.hackerrank.com/products/developer-skills-platform/)
+7. [LeetCode](https://leetcode.com/)
+8. [Stack Overflow](https://stackoverflow.com/)
+9. [Life at Google](https://www.youtube.com/playlist?list=PLllx_3tLoo4c_aR8RKOOnizL5LiUH02YF)
+. 
+. 
+Practice, Practice, Practice!!!
+
+&nbsp;
+
+## My Tips . . 
 
 &nbsp;
 
@@ -143,11 +181,11 @@ What Next?!
 
 * Close all the opened tabs and exit the Browser!
 * Open the Browser again and open your email.
-* Reply yo the Interview email saying - Thank you for providing the opportuninty and it was a great discussion. I'm waiting for the positive feedback!
+* Reply to the Interview email saying - Thank you for providing the opportuninty and it was a great discussion. I'm waiting for the positive feedback!
 
 &nbsp;
 
-Go out and RELAX!
+That's al!! Go out and RELAX!!!
 
 &nbsp;
 
