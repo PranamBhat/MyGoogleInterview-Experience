@@ -1,8 +1,10 @@
 # MyGoogleInterview-Experience
 
+&nbsp;
 
 I have attended Google Interview 2 times till date. Both the times I got REJECTED!
 
+&nbsp;
 
 Interview Experience 1:
 
@@ -34,6 +36,7 @@ No update since then!
 
 REJECTED
 
+&nbsp;
 
 Interview Experience 2:
 
@@ -54,6 +57,99 @@ Interview Experience 2:
 
 REJECTED
 
+&nbsp;
+
+
+15 Minutes Before the interview:
+
+* Arrange proper room/table/lights with laptop/desktop and proper headset/earphones.
+* Make sure you keep a pen, notebook/paper, water,etc.
+* Keep your phone in silent mode.
+* Plug-in charger for the laptop/desktop and make sure you have suffiecient charge for the interview.
+* Close all the background apps.
+* Open a Browser (Google Chrome) and hide your Bookmarks Bar.
+* Open your email and open the interview invite link.
+* Test your mic and video.
+* Be ready!
+
+&nbsp;
+
+Once The Interviewer Joins . .
+
+* Say Hi and be confident!
+* Let them start next and wait for your turn.
+* When they introduce themselves, you just listen!
+* When they ask your Introduction, introduce with confidence.
+* Introduction should be very short and clear. 
+
+Now they will ask you to share your screen and open the Google Doc. link.
+
+* Open the link in new tab.
+* They will paste the Question.
+* Just wait an watch! 
+
+&nbsp;
+
+There are 2 chances:
+* 45 minutes - 1 Difficult question
+* 45 minutes - 2 Easy/Medium questions
+
+&nbsp;
+
+* They will explain you the Question and what exactly they want output.
+* Now it's your turn to read the Question carefully and ask for clarification.
+* Take 2 minutes . . 
+* Ask few questions related to the problem. Let them clarify the same.
+* Once you are clear, explain your approach to the interviewer.
+
+&nbsp;
+
+Now start coding . . 
+
+* Write proper variable names.
+* Don't hurry up! write slowly.
+* Ask if you have any doubt's in the middle. They will explain.
+* Once you are done with coding, stop writing. Let them know you are done. 
+* They will ask you to explain your code and how you are solving the problem.
+* Explain them properly. Don't get stuck anywhere!
+
+&nbsp;
+
+Not finished yet! 
+
+* They will ask you to write the test case's.
+  * Write relavant test case's and let them know once you are done.
+* They will ask you - What is the Time Complexity and Space Complexity?
+  * Write the Time Complexity and Space Complexity
+  * Explain why!
+  
+&nbsp;
+
+Almost you reached end of the interview!
+
+* They will ask - Do you have any questions for me?
+  * Ask one or two valid questions.
+  * Listen to them what they are telling!
+
+&nbsp;
+
+Done! Interview is completed!
+
+&nbsp;
+
+
+What Next?!
+
+
+* Close all the opened tabs and exit the Browser!
+* Open the Browser again and open your email.
+* Reply yo the Interview email saying - Thank you for providing the opportuninty and it was a great discussion. I'm waiting for the positive feedback!
+
+&nbsp;
+
+Go out and RELAX!
+
+&nbsp;
 
 
 
@@ -62,6 +158,8 @@ REJECTED
 [Google Interview 1](https://leetcode.com/discuss/interview-question/2255835/google-interview-question)
 
 [Google Interview 2](https://leetcode.com/discuss/interview-question/2233033/google-interview-question)
+
+&nbsp;
 
 
 
