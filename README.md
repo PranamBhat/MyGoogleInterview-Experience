@@ -99,15 +99,18 @@ Practice, Practice, Practice!!!
 
 &nbsp;
 
-1. Read enough coding Books - [Best Books](https://dev.to/pranambhat/best-books-for-algorithms-and-data-structures-in-programming-13m1)
-2. Understand and practice enough Algorithms - [List Of Algorithms](https://dev.to/pranambhat/list-of-algorithms-in-computer-programming-4loa)
-3. Solve enough problems on LeetCode - [LeetCode Problems](https://leetcode.com/problemset/all/)
-4. Read this blog - [Blog](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
-5. YouTube Channels:
-   * [https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw?app=desktop](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw?app=desktop)
+1. Big-O Cheat Sheet - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+2. Refer this GitHub Repository - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+3. Read enough coding Books - [Best Books](https://dev.to/pranambhat/best-books-for-algorithms-and-data-structures-in-programming-13m1)
+4. Understand and practice enough Algorithms - [List Of Algorithms](https://dev.to/pranambhat/list-of-algorithms-in-computer-programming-4loa)
+5. Solve enough problems on LeetCode - [LeetCode Problems](https://leetcode.com/problemset/all/)
+6. Read this blog - [Blog](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+7. YouTube Channels:
+   * [https://www.youtube.com/watch?v=lDTKnzrX6qU](https://www.youtube.com/watch?v=lDTKnzrX6qU)
    * [https://www.youtube.com/watch?v=HYK5lpkKBPo](https://www.youtube.com/watch?v=HYK5lpkKBPo)
-   * [https://www.youtube.com/watch?v=6ZZX9iIgFoo&t=7s](https://www.youtube.com/watch?v=6ZZX9iIgFoo&t=7s)
    * [https://www.youtube.com/watch?v=fNpQrYwxsvo](https://www.youtube.com/watch?v=fNpQrYwxsvo)
+   * [https://www.youtube.com/watch?v=6ZZX9iIgFoo&t=7s](https://www.youtube.com/watch?v=6ZZX9iIgFoo&t=7s)
+   * [https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw?app=desktop](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw?app=desktop)
 
 
 &nbsp;
@@ -134,6 +137,38 @@ Remember to think out loud - ask for clarifications - check corner cases - pay a
 
 
 &nbsp;
+
+# Frequently asked topics:
+
+1. Binary search
+2. BFS/DFS/Flood fill
+3. Tree traversals
+4. Hash tables
+5. Linked list, stacks, queues, two pointers/sliding window
+6. Binary heaps
+7. Dynamic programming
+8. Union find
+9. Ad hoc/string manipulations
+10. Other good to know topics: Trie, segment trees/fenwick trees, bitmask
+11. You'll be expected to know and apply: lists, maps, stacks, priority queues, binary trees, graphs, bags, and sets.
+12. For algorithms you'll want to know greedy algorithms, divide and conquer, dynamic programming, recursion, and brute force search.
+13. You'll definitely want to be conversant with big­O notation, time­-space complexity, and real world performance of all of this.
+
+
+&nbsp;
+
+
+## How Google evaluate your skills in terms of Data Structures & Algorithms?
+
+* Can you implement the most optimized data structure and algorithm for the question?
+* Can you explain the tradeoffs between the data structure/solution?
+* Can you explain why you choose a data structure for implementation?
+* Can you explain and analyze the time and space complexity correctly?
+* Can you translate the algorithm to code well?
+
+
+&nbsp;
+
 
 15 Minutes Before the interview:
 
