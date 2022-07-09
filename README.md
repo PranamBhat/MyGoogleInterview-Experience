@@ -82,11 +82,12 @@ I have been preparing since 4 years when I first interviewed at Google 06-07-202
 2. [Introduction to Algorithms](https://www.amazon.in/Introduction-Algorithms-3Ed-International-Press/dp/0262533057)
 3. [GeeksforGeeks](https://www.geeksforgeeks.org/hard/)
 4. [GitHub](https://github.com/)
-5. [GitHub Repository](https://github.com/mgechev/google-interview-preparation-problems)
-6. [HackerRank](https://www.hackerrank.com/products/developer-skills-platform/)
-7. [LeetCode](https://leetcode.com/)
-8. [Stack Overflow](https://stackoverflow.com/)
-9. [Life at Google](https://www.youtube.com/playlist?list=PLllx_3tLoo4c_aR8RKOOnizL5LiUH02YF)
+5. [GitHub Repository 1](https://github.com/jwasham/coding-interview-university)
+6. [GitHub Repository 2](https://github.com/mgechev/google-interview-preparation-problems)
+7. [HackerRank](https://www.hackerrank.com/products/developer-skills-platform/)
+8. [LeetCode](https://leetcode.com/)
+9. [Stack Overflow](https://stackoverflow.com/)
+10. [Life at Google](https://www.youtube.com/playlist?list=PLllx_3tLoo4c_aR8RKOOnizL5LiUH02YF)
 
 &nbsp;
 
@@ -101,6 +102,38 @@ Practice, Practice, Practice!!!
 1. Read enough coding Books - [Best Books](https://dev.to/pranambhat/best-books-for-algorithms-and-data-structures-in-programming-13m1)
 2. Understand and practice enough Algorithms - [List Of Algorithms](https://dev.to/pranambhat/list-of-algorithms-in-computer-programming-4loa)
 3. Solve enough problems on LeetCode - [LeetCode Problems](https://leetcode.com/problemset/all/)
+4. Read this blog - [Blog](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
+5. YouTube Channels:
+   * [https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw?app=desktop](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw?app=desktop)
+   * [https://www.youtube.com/watch?v=HYK5lpkKBPo](https://www.youtube.com/watch?v=HYK5lpkKBPo)
+   * [https://www.youtube.com/watch?v=6ZZX9iIgFoo&t=7s](https://www.youtube.com/watch?v=6ZZX9iIgFoo&t=7s)
+   * [https://www.youtube.com/watch?v=fNpQrYwxsvo](https://www.youtube.com/watch?v=fNpQrYwxsvo)
+
+
+&nbsp;
+
+
+### Interview Behaviors To Keep In MIND . .
+
+Talk through your thought process about the questions you are asked. In all of Google's interviews, our engineers are evaluating not only your technical abilities but also how you approach problems and how you try to solve them.
+
+Ask clarifying questions if you do not understand the problem or need more information. Many of the questions asked in Google interviews are deliberately underspecified because our engineers are looking to see how you engage the problem. In particular, they are looking to see which areas leap to your mind as the most important piece of the technological puzzle you've presented.
+
+Think about ways to improve the solution you'll present. In many cases, the first answer that springs to mind isn't the most elegant solution and may need some refining. It's definitely worthwhile to talk about your initial thoughts to a question, but jumping immediately into presenting a brute force solution will be received less well than taking time to compose a more efficient solution.
+
+Access to a computer at the time of interview is required as you will be requested to write and share code. Interviewers use Google Docs to facilitate coding in real time.
+
+Couple of pointers to bear in mind during the interviews:
+Coding rounds: Emphasis on Syntax, Naming, Organisation and testing.  Please take care to use the best features of the language. Ensure a high  level of code readability (use good variable names etc). Be particular about boundary conditions and incorporate the same in your answer. Do test your code independent of the interviewer hinting to do so.
+Data Structures: Emphasis on right tools for the job, varieties of DS (Lists, Hashtables, Stacks, Queues, Graphs etc). Don't force a question into a structure that doesn't fit.
+Algo: Binary search, sorting, Recursion, Dynamic Programming, Time & Space complexity. Try to start simple and improve.                                              
+A simple elegant solution is preferred. You are expected to hit the optimal solution, and be able to discuss alternate methods and their tradeoffs. Time complexity analysis is expected.
+Efficacy: Fast solutions with minimum guidance is expected.
+
+Remember to think out loud - ask for clarifications - check corner cases - pay attention to the interviewer's hints/ clues.
+
+
+&nbsp;
 
 15 Minutes Before the interview:
 
