@@ -105,7 +105,11 @@ Practice, Practice, Practice!!!
 4. Understand and practice enough Algorithms - [List Of Algorithms](https://dev.to/pranambhat/list-of-algorithms-in-computer-programming-4loa)
 5. Solve enough problems on LeetCode - [LeetCode Problems](https://leetcode.com/problemset/all/)
 6. Read this blog - [Blog](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
-7. YouTube Channels:
+7. Join communities like:
+   * [Discord](https://discord.com/)
+   * [Meetup](https://www.meetup.com/)
+   * [Slack](https://slack.com/intl/en-in/)
+8. YouTube Channels:
    * [https://www.youtube.com/watch?v=lDTKnzrX6qU](https://www.youtube.com/watch?v=lDTKnzrX6qU)
    * [https://www.youtube.com/watch?v=HYK5lpkKBPo](https://www.youtube.com/watch?v=HYK5lpkKBPo)
    * [https://www.youtube.com/watch?v=fNpQrYwxsvo](https://www.youtube.com/watch?v=fNpQrYwxsvo)
@@ -262,6 +266,16 @@ That's al!! Go out and RELAX!!!
 &nbsp;
 
 
+## Google Interview - HR Resource's
+
+* Google Interview HR Co-ordinator will share resource's soon after the Introduction Call. Always have a look at them and study hard!
+* I have attached here the resource's shared by the Google Interview - HR via email. Please have a look!
+   * Note: I have kept the HR details confidential and converted the email to pdf and attched here. 
+* [Interview-1 Resource](https://github.com/PranamBhat/MyGoogleInterview-Experience/blob/master/Interview-1%20Resource.pdf)
+* [Interview-2 Resource](https://github.com/PranamBhat/MyGoogleInterview-Experience/blob/master/Interview-2%20Resource.pdf)
+
+
+&nbsp;
 
 ## Posted Questions on LeetCode:
 
@@ -271,6 +285,18 @@ That's al!! Go out and RELAX!!!
 
 &nbsp;
 
+## My Portfolio
+1. [Credly](https://www.credly.com/users/pranam-k.1ea87c11/badges)
+2. [C# Corner](https://www.c-sharpcorner.com/members/pranam-bhat)
+3. [DEV Community](https://dev.to/pranambhat)
+4. [Medium](https://medium.com/@pranam707)
+5. [GitHub](https://github.com/PranamBhat)
+6. [HackerRank](https://www.hackerrank.com/pranam707)
+7. [LeetCode](https://leetcode.com/ask2pranam/)
+8. [Stack Overflow](https://stackoverflow.com/users/6935413/pranam-bhat)
+
+
+&nbsp;
 
 
 ## From Developer
